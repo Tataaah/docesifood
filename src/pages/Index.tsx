@@ -683,7 +683,7 @@ const Index = () => {
             </div>
             
             <p className="text-2xl font-bold mb-8 text-yellow-300">
-              Não deixe 2024 terminar do mesmo jeito que começou!
+              Não deixe 2025 terminar do mesmo jeito que começou!
             </p>
           </div>
           
