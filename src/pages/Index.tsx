@@ -28,13 +28,13 @@ const Index = () => {
         <div className="absolute inset-0 bg-black/20"></div>
         <div className="relative container mx-auto px-4 py-16 text-center">
           <Badge className="mb-6 bg-yellow-500 text-black font-bold px-4 py-2 text-lg animate-pulse">
-            🎄 OPORTUNIDADE ÚNICA DE NATAL 🎄
+            🎄 PREÇO BLACK FRIDAY SOMENTE ESTE MÊS 🎄
           </Badge>
           
           <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
             Ganhe <span className="text-yellow-300">R$ 3.000+</span> Este Mês<br/>
             Vendendo Doces no iFood<br/>
-            <span className="text-yellow-300">Direto da Sua Cozinha!</span>
+            <span className="text-yellow-300">Direto da Sua Cozinha! PROMOÇÃO BLACK FRIDAY SOMENTE ESTE MÊS</span>
           </h1>
           
           <p className="text-xl md:text-2xl mb-8 max-w-4xl mx-auto leading-relaxed">
