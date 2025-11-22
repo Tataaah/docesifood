@@ -399,7 +399,7 @@ const Index = () => {
             
             <Card className="border-4 border-red-500 shadow-2xl max-w-md mx-auto">
               <CardHeader className="bg-gradient-to-r from-red-600 to-green-600 text-white text-center">
-                <CardTitle className="text-2xl font-bold">🎄 OFERTA ESPECIAL DE NATAL 🎄</CardTitle>
+                <CardTitle className="text-2xl font-bold">🎄 OFERTA ESPECIAL DE BLACK FRIDAY PARA VOCÊ LUCRAR DE CASA NO NATAL 🎄</CardTitle>
                 <CardDescription className="text-white/90 text-lg">
                   Por tempo limitado
                 </CardDescription>
